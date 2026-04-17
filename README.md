@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E96C00&center=true&vCenter=true&width=600&lines=15%2B+years+of+full+stack+experience;Backend+%7C+Frontend+%7C+Cloud+%7C+AI;Building+products+that+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E96C00&center=true&vCenter=true&width=600&lines=15%2B+years+of+full+stack+experience;Backend+%7C+Frontend+%7C+Cloud+%7C+AI;Automation+%7C+Game+Design+%7C+3D+%7C+Bots;Building+products+that+scale)](https://git.io/typing-svg)
 
 <br/>
 
@@ -58,10 +58,61 @@
 
 ---
 
+### 🎨 Other Skills
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black" /><br/>
+      <sub><b>SVG Design</b></sub><br/>
+      <sub>Vector graphics & animation</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /><br/>
+      <sub><b>Blender 3D</b></sub><br/>
+      <sub>Modeling, rigging & rendering</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" /><br/>
+      <sub><b>Roblox Studio</b></sub><br/>
+      <sub>Game design & Lua scripting</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" /><br/>
+      <sub><b>Discord Bots</b></sub><br/>
+      <sub>Slash commands, events & APIs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white" /><br/>
+      <sub><b>Make (Integromat)</b></sub><br/>
+      <sub>Visual workflow automation</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /><br/>
+      <sub><b>n8n</b></sub><br/>
+      <sub>Self-hosted automation pipelines</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/ManyChat-00AFF0?style=for-the-badge&logo=messenger&logoColor=white" /><br/>
+      <sub><b>ManyChat</b></sub><br/>
+      <sub>Conversational marketing flows</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Enterprise_Automation-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" /><br/>
+      <sub><b>Enterprise Automation</b></sub><br/>
+      <sub>Business process optimization</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=da093-tech&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da093-tech&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css,shell&custom_domains=Java,CSharp,PHP,Python,TypeScript,JavaScript,React,Kotlin" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da093-tech&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css,shell" height="165" />
 
 <br/>
 
@@ -69,7 +120,7 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=da093-tech&theme=github" width="720" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=da093-tech&theme=minimal&hide_border=true&area=true&color=e96c00&line=c0392b&point=8e44ad" width="720" />
 
 ---
 
