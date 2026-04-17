@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Daniel%20Allendes&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer&descSize=16&descAlignY=85&descColor=aaaaaa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96c00,50:c0392b,100:8e44ad&height=200&section=header&text=Daniel%20Allendes&fontSize=52&fontColor=ffffff&fontAlignY=55&fontStyle=bold&desc=Full%20Stack%20Developer&descSize=18&descAlignY=75&descColor=ffe0cc&animation=fadeIn" width="100%" />
 
 <br/>
 
-*15+ years crafting software across the full stack — from robust backends to refined frontends.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E96C00&center=true&vCenter=true&width=600&lines=15%2B+years+of+full+stack+experience;Backend+%7C+Frontend+%7C+Cloud+%7C+AI;Building+products+that+scale)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 | Domain | Technologies | Level |
 |--------|-------------|-------|
-| **Backend** | Java · C# · Python · Node.js | `████████████ Senior` |
+| **Backend** | Java · C# · PHP · Python · Node.js | `████████████ Senior` |
 | **Frontend** | React · TypeScript · JavaScript · HTML/CSS | `████████████ Senior` |
 | **Databases** | SQL Server · MySQL · PostgreSQL · Oracle | `███████████░ Advanced` |
 | **Cloud & DevOps** | Azure · Docker · CI/CD · Linux | `█████████░░░ Advanced` |
@@ -28,6 +28,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -44,6 +45,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Databases & Cloud**
@@ -59,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=da093-tech&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da093-tech&layout=compact&theme=graywhite&hide_border=true&langs_count=10&hide=html" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da093-tech&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css,shell&custom_domains=Java,CSharp,PHP,Python,TypeScript,JavaScript,React,Kotlin" height="165" />
 
 <br/>
 
@@ -71,6 +73,10 @@
 
 ---
 
+> 🔒 **Note on stats:** Most of my work lives in **private repositories** — enterprise systems, client projects, and production applications built over 15+ years across multiple companies and industries. The public activity shown here represents only a fraction of my actual codebase and commit history. The language distribution above reflects my real-world stack based on professional experience.
+
+---
+
 ### 🤝 Contact
 
 [![Website](https://img.shields.io/badge/danflow.cl-000000?style=flat-square&logo=safari&logoColor=white)](https://www.danflow.cl)
@@ -78,6 +84,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,50:c0392b,100:e96c00&height=80&section=footer" width="100%" />
 
 </div>
