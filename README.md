@@ -112,9 +112,25 @@
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=da093-tech&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da093-tech&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css,shell" height="165" />
 
 <br/>
+
+**💬 Most Used Languages** *(based on 15+ years of professional experience)*
+
+> ⚠️ GitHub's language widget only reads public repos. Since most of my work is in private repositories, the data below reflects my **real-world usage** across enterprise and client projects.
+
+| Language | Usage | Experience |
+|----------|-------|------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | `███████████░` 90% | 15+ years — enterprise backends, Spring Boot, APIs |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **C#** | `██████████░░` 85% | 12+ years — .NET, WinForms, ASP.NET, services |
+| ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | `██████████░░` 85% | 12+ years — frontend, Node.js, automation scripts |
+| ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript** | `█████████░░░` 75% | 7+ years — React apps, typed Node.js backends |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) **PHP** | `████████░░░░` 68% | 10+ years — Laravel, WordPress, custom CMS |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | `████████░░░░` 65% | 8+ years — automation, APIs, data processing |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL** | `███████████░` 90% | 15+ years — complex queries, stored procedures, tuning |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) **React / JSX** | `█████████░░░` 75% | 6+ years — SPAs, dashboards, component libraries |
+
+---
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=da093-tech&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
 
@@ -124,7 +140,7 @@
 
 ---
 
-> 🔒 **Note on stats:** Most of my work lives in **private repositories** — enterprise systems, client projects, and production applications built over 15+ years across multiple companies and industries. The public activity shown here represents only a fraction of my actual codebase and commit history. The language distribution above reflects my real-world stack based on professional experience.
+> 🔒 **Note on stats:** Most of my work lives in **private repositories** — enterprise systems, client projects, and production applications built over 15+ years across multiple companies and industries. The public activity shown here represents only a fraction of my actual codebase and commit history.
 
 ---
 
